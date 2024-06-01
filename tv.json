@@ -10,6 +10,24 @@
       "quickSearch": 0,
       "filterable": 1
     },
+        {
+      "key":"hhh",
+      "name":"🚀hhh",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "./XBPQ.jar",
+      "ext":{
+      "分类url": "https://www.82v4.com/web/video-{calss}-{cateId}.html",
+       "图片":"data-src=\"&&\"",
+         "标题":"<a class=\"fed-list-title*>&&</a>",
+         "副标题":"<span class=\"fed-list-remarks*>&&</span>",
+         "链接":"href=\"&&\"",
+         "线路数组":"class=\"fed-drop-btns*>&&</li>",
+         "线路标题":">&&</a>",
+       "分类": "亚洲无码&华人原创&网红视频&国产视频",
+       "分类值": "1003&3088&131&132"
+    }
+    },
     {
       "key": "Jianpian",
       "name": "📺荐片影视",
